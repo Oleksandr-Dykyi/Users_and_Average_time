@@ -19,4 +19,4 @@ To streamline data exploration, I consolidated all three sheets into a single da
 [Tableau Workbook Link](https://public.tableau.com/views/UsersAveragetime/UsersAveragetime?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Skills:
-Tableau, Business Intelligence (BI)
+Data Analysis · Business Intelligence (BI) · Tableau · Data Visualization
